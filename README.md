@@ -1,6 +1,6 @@
 # News-Website
 
-* You can run in your system by opening terminal and running below command 
+* You can run in your system by opening terminal and running below command  
 1  cd Mongo/src/app.js
 2  npm install
 3  npm i alert
