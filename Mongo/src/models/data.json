@@ -1,0 +1,10 @@
+{
+    "firstname" :"vinod",
+    "lastname" : "sorry thapa",
+    "email":"hello@bc.com",
+    "gender":"trans",
+    "phone":"8373273282",
+    "age": "10",
+    "password":"1234",
+    "confirmpassword":"1234"
+}
